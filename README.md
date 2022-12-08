@@ -31,5 +31,5 @@ This function prevents clear-text password from being stored in database by encr
 ### Login.mlapp
 This is designed to make an interactive environment prompting the user a 'return user' or 'new user' option so user can create a new user login and if user already exists, then access the content of their data by going to return user.
 
-### Homepage.mlapp
+### Main_Menu1.mlapp
 After a user passes through the login GUI, it will direct the user to this Homepage GUI. User can interact with the GUI by clicking buttons to access their personalized logbook and see visuals represented as a bar graph to make interpretations. 
